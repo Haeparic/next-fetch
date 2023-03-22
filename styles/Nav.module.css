@@ -1,0 +1,11 @@
+.nav {
+  padding: 30px;
+  background: burlywood;
+}
+.nav ul {
+  display: flex;
+  gap: 10px;
+}
+.nav ul li {
+  color: darkslategrey;
+}
